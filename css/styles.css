@@ -1,0 +1,72 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f7fb; /* Light blue background */
+}
+
+header, nav, main, footer {
+    padding: 20px;
+}
+
+header {
+    background-color: #0e5a8a; /* Dark blue header */
+    color: #fff;
+    text-align: center;
+}
+
+/* Style for the logo */
+header img {
+    max-width: 100px; /* Adjust the size as needed */
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1879b2; /* Medium blue navigation*/
+    padding: 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main section {
+    margin-bottom: 20px;
+    border: 1px solid #aad7f7; /* Lighter border */
+    padding: 20px;
+    background-color: #ebf6ff; /* Light blue content background */
+}
+
+/* Style for images in the body */
+main img {
+    max-width: 100%; /* Make the image responsive */
+    height: auto;
+    display: block; /* Ensure margin auto works correctly */
+    margin: 0 auto 0 auto; /* Align to the right */
+}
+
+/* Adjust the max-width property to control the image size */
+main img.big-image {
+    max-width: 20%; /* Adjust this value */
+}
+
+footer {
+    text-align: center;
+    background-color: #0e5a8a; /* Dark blue footer */
+    color: #fff;
+    padding: 10px 0;
+}
