@@ -1,5 +1,6 @@
-**MPA FLE French Class**
 
+**MPA FLE French Class**
+![Landing Page](images/Landing page.jpeg)
 This website is designed to assist Anglophone speakers in their journey to learn French. It serves as an ALX Portfolio Project.
 
 **Installation:**
