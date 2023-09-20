@@ -17,7 +17,7 @@ In the creation of this project,other ALX Portfolio Projects and educational res
 **Licensing:**
 Contact the project owner, Priscilla Momodu, for information on licensing and usage rights.
 
-**More About My Story**
+**More About My Story**:
 It was supposed to be a team project, however, I missed the deadline set to choose team members due to factors that were beyond my control. Yet, I chose to not give up on doing it.
 I love languages and so I could think of nothing else but a project focused on languages; especially the French language😁. 
 For the Frontend I chose to use HTML5, CSS3 and JavaScript without any additional frameworks. I did not use anything more because I dedicated my time to solidifying my understanding of these three, as I built the project. 
